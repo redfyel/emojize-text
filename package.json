@@ -1,0 +1,21 @@
+{
+  "name": "emojize-text",
+  "version": "1.0.2",
+  "description": "A package that allows for coloring text with emojis!",
+  "keywords": [
+    "emoji",
+    "text",
+    "lively"
+  ],
+  "license": "ISC",
+  "author": "shelian_22501A0544",
+  "type": "commonjs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redfyel/emojize-text.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
