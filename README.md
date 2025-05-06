@@ -31,7 +31,9 @@ console.log(outputText)
 ```
 
 ### Output
-```1️⃣ ☀️ morning, Ziggy, the cute 👽, was feeling a bit down. It decided to take a 🚕 to the best 🍩 shop in town. After a long ride, Ziggy arrived and was so 😄 to finally get its 🍩 and ☕. To its surprise, the cashier gave it a free 🧁 with a 😉. As it sat down, a 🐯 suddenly appeared, but it quickly turned into a friendly 🐶 that started playing the 🎹. Ziggy laughed and felt truly 😇 for the unexpected joy of the day.```
+```bash
+1️⃣ ☀️ morning, Ziggy, the cute 👽, was feeling a bit down. It decided to take a 🚕 to the best 🍩 shop in town. After a long ride, Ziggy arrived and was so 😄 to finally get its 🍩 and ☕. To its surprise, the cashier gave it a free 🧁 with a 😉. As it sat down, a 🐯 suddenly appeared, but it quickly turned into a friendly 🐶 that started playing the 🎹. Ziggy laughed and felt truly 😇 for the unexpected joy of the day.
+```
 
 ### ✨ Ready to Embrace Emojis? 🤩
 Stop typing like it's 1999. Emojize your text today and bring those words to life! 😉
